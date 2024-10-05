@@ -1,10 +1,9 @@
 import React from 'react'
-import Counter from './../../components/Counter'
 
 const Main = () => {
     return (
         <div>
-            <Counter />
+            main
         </div>
     )
 }
